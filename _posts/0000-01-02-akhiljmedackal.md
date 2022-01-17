@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"Flow like a butterfly , sting like a bee"
+"Flow like a butterfly , sting like a bee"-Mohamad Ali
 Use the left arrow to go back!
