@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"Flow like a butterfly , sting like a bee"-Mohamad Ali
+"Parting is such sweet sorrow"-William Shakespeare
 Use the left arrow to go back!
